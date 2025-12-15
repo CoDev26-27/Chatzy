@@ -27,3 +27,8 @@ export default defineConfig([
     },
   },
 ])
+
+/* JavaScript
+   Multi-line
+   Comment */
+
