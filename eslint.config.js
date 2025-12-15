@@ -32,3 +32,6 @@ export default defineConfig([
    Multi-line
    Comment */
 
+/* JavaScript
+   Multi-line
+   Comment */
